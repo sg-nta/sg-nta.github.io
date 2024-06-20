@@ -1,0 +1,27 @@
+---
+title: "Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts"
+category: articles
+permalink: "/publications/Gaussian_gated/"
+venue: "Under review"
+date: 23-09-2023
+link: https://arxiv.org/abs/2305.07572
+---
+
+[comment]: <> (<a href="https://arxiv.org/abs/2305.07572">Arxiv</a>.)
+<b>Huy Nguyen\*</b>, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho
+
+Abstract: Originally introduced as a neural network for ensemble learning, mixture of experts (MoE)
+has recently become a fundamental building block of highly successful modern deep neural
+networks for heterogeneous data analysis in several applications, including those in machine
+learning, statistics, bioinformatics, economics, and medicine. Despite its popularity in practice, a
+satisfactory level of understanding of the convergence behavior of Gaussian-gated MoE parameter
+estimation is far from complete. The underlying reason for this challenge is the inclusion of
+covariates in the Gaussian gating and expert networks, which leads to their intrinsically complex
+interactions via partial differential equations with respect to their parameters. We address
+these issues by designing novel Voronoi loss functions to accurately capture heterogeneity in
+the maximum likelihood estimator (MLE) for resolving parameter estimation in these models.
+Our results reveal distinct behaviors of the MLE under two settings: the first setting is when
+all the location parameters in the Gaussian gating are non-zeros while the second setting is
+when there exists at least one zero-valued location parameter. Notably, these behaviors can be
+characterized by the solvability of two different systems of polynomial equations. Finally, we
+conduct a simulation study to verify our theoretical results.
