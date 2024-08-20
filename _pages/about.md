@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! I'm An Nguyen The (in Vietnamese: Nguyễn Thế An), and I am currently a research resident at [FPT Software AI Center](https://fpt-aicenter.com/en/) where I am fortunate to be advised by Professor [Tan Nguyen](https://tanmnguyen89.github.io/) and Dr [Thieu Vo](https://scholar.google.at/citations?user=CM2qJSoAAAAJ&hl=en/). I'm also doing some research under guidance of Professor [Nhat Ho](https://nhatptnk8912.github.io/). Before that, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Data Science and Artificial Intelligence. 
+Welcome to my homepage! I'm An Nguyen The (in Vietnamese: Nguyễn Thế An), and I am currently a research resident at [FPT Software AI Center](https://fpt-aicenter.com/en/) where I am fortunate to be advised by Professor [Tan Nguyen](https://tanmnguyen89.github.io/) and Dr [Thieu Vo](https://scholar.google.at/citations?user=CM2qJSoAAAAJ&hl=en/). Before that, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Data Science and Artificial Intelligence. 
 
 ## Research Interests 
 My current research centers on fundamentals of State space models and applications of Mixture-of-Experts models. I am also open to diversifying my research to various aspects in the future.
