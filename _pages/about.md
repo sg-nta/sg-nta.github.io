@@ -20,13 +20,13 @@ My current research centers on fundamentals of State space models and Equivarian
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 ## Selected Preprints
 ### Mixture of Experts Meets Prompt-Based Continual Learning
-*Minh Le, __An Nguyen__\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
+*Minh Le, __An Nguyen\*__, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
 Advances in NeurIPS, 2024 [[arXiv](https://arxiv.org/abs/2405.14124)]
 ### Monomial Matrix Group Equivariant Neural Functional Networks
 *Hoang V. Tran\*, Thieu N. Vo\*, Tho H. Tran, __An T. Nguyen__, Tan Minh Nguyen<br/>
 Advances in NeurIPS, 2024 [[arXiv](https://arxiv.org/abs/2409.11697)]
 ### Equivariant Neural Functional Networks for Transformers
-*Hoang V. Tran\*, Thieu N. Vo\*, __An T. Nguyen__\*, Tho Tran Huu, Minh-Khoi Nguyen-Nhat, Thanh Tran, Duy-Tung Pham, Tan Minh Nguyen<br/>
+*Hoang V. Tran\*, Thieu N. Vo\*, __An T. Nguyen\*__, Tho Tran Huu, Minh-Khoi Nguyen-Nhat, Thanh Tran, Duy-Tung Pham, Tan Minh Nguyen<br/>
 Under review, [[arXiv](https://arxiv.org/abs/2410.04209)]
 ### Equivariant Polynomial Functional Networks
 *Thieu N. Vo\*, Hoang V. Tran\*, Tho Tran Huu, __An T. Nguyen__, Thanh Tran, Minh-Khoi Nguyen-Nhat, Duy-Tung Pham, Tan Minh Nguyen<br/>

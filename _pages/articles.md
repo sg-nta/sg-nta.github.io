@@ -21,16 +21,16 @@ redirect_from:
 <b>Huy Nguyen</b>, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho -->
 
 **[P.1]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124.pdf). *Advances in NeurIPS, 2024*. <br/>
-Minh Le, <b>An Nguyen</b>\*, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
+Minh Le, <b>An Nguyen\*</b>, Huy Nguyen\*, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
 
 **[P.2]** [Monomial Matrix Group Equivariant Neural Functional Networks](https://arxiv.org/pdf/2409.11697.pdf). *Advances in NeurIPS, 2024*. <br/>
-Hoang V. Tran*, Thieu N. Vo*, Tho H. Tran, <b>An T. Nguyen</b>, Tan Minh Nguyen
+Hoang V. Tran\*, Thieu N. Vo\*, Tho H. Tran, <b>An T. Nguyen</b>, Tan Minh Nguyen
 
 **[P.3]** [Equivariant Neural Functional Networks for Transformers](https://arxiv.org/pdf/2410.04209.pdf). *Under review*. <br/>
-Hoang V. Tran*, Thieu N. Vo*, <b>An T. Nguyen</b>*, Tho Tran Huu, Minh-Khoi Nguyen-Nhat, Thanh Tran, Duy-Tung Pham, Tan Minh Nguyen
+Hoang V. Tran\*, Thieu N. Vo\*, <b>An T. Nguyen\*</b>, Tho Tran Huu, Minh-Khoi Nguyen-Nhat, Thanh Tran, Duy-Tung Pham, Tan Minh Nguyen
 
 **[P.4]** [Equivariant Polynomial Functional Networks](https://arxiv.org/pdf/2410.04213.pdf). *Under review*. <br/>
-Thieu N. Vo*, Hoang V. Tran*, Tho Tran Huu, <b>An T. Nguyen</b>, Thanh Tran, Minh-Khoi Nguyen-Nhat, Duy-Tung Pham, Tan Minh Nguyen
+Thieu N. Vo\*, Hoang V. Tran\*, Tho Tran Huu, <b>An T. Nguyen</b>, Thanh Tran, Minh-Khoi Nguyen-Nhat, Duy-Tung Pham, Tan Minh Nguyen
 
 <!-- **[P.2]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
 Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
