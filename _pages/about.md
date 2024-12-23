@@ -25,6 +25,9 @@ Advances in NeurIPS, 2024 [[arXiv](https://arxiv.org/abs/2405.14124)]
 ### Monomial Matrix Group Equivariant Neural Functional Networks
 *Hoang V. Tran\*, Thieu N. Vo\*, Tho H. Tran, __An T. Nguyen__, Tan Minh Nguyen*<br/>
 Advances in NeurIPS, 2024 [[arXiv](https://arxiv.org/abs/2409.11697)]
+### Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective
+*Minh Le\*, Tien Ngoc Luu\*, __An Nguyen The\*__, Thanh-Thien Le, Trang Nguyen, Thanh Tung Nguyen, Linh Ngo Van, Thien Huu Nguyen*<br/>
+AAAI Conference on Artificial Intelligence, AAAI 2025 [[arxiv](https://arxiv.org/pdf/2412.08285)] 
 ## Selected Preprints
 ### Equivariant Neural Functional Networks for Transformers
 *Hoang V. Tran\*, Thieu N. Vo\*, __An T. Nguyen\*__, Tho Tran Huu, Minh-Khoi Nguyen-Nhat, Thanh Tran, Duy-Tung Pham, Tan Minh Nguyen*<br/>
