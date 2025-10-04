@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! I'm An Nguyen The (in Vietnamese: Nguyễn Thế An), and I am currently a research resident at [FPT Software AI Center](https://fpt-aicenter.com/en/) where I am fortunate to be advised by Professor [Tan Nguyen](https://tanmnguyen89.github.io/) and Dr [Thieu Vo](https://scholar.google.at/citations?user=CM2qJSoAAAAJ&hl=en/). Before that, I graduated as valedictorian from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Data Science and Artificial Intelligence. 
+Welcome to my homepage! I'm An Nguyen The (in Vietnamese: Nguyễn Thế An), and I am currently a research resident at [FPT Software AI Center](https://fpt-aicenter.com/en/) where I am fortunate to be advised by Professor [Tan Nguyen](https://tanmnguyen89.github.io/) and Professor [Thieu Vo](https://scholar.google.at/citations?user=CM2qJSoAAAAJ&hl=en/). Before that, I graduated as valedictorian from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Data Science and Artificial Intelligence. 
 
 ## Research Interests 
 My current research focuses on developing Metanetworks - neural functional architecture preserving functional equivalence. Besides, I'm also working the fundamentals of Transformer models, with a particular emphasis on improving their efficiency and robustness. Additionally, I have experience on Continual Learning and Mixture of Experts. I am also open to diversifying my research to various aspects in the future.
