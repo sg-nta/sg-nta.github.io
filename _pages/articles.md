@@ -35,7 +35,5 @@ Hoang V. Tran\*, Thieu N. Vo\*, Tho H. Tran, <b>An Nguyen The</b>, Tan Minh Nguy
 ## Preprints
 
 **[P.1]** Quasi-Equivariant Metanetworks. *Under review*. <br/>
-Hoang V. Tran\*, <b>An Nguyen The\*</b>, Benoît Guérand, Thieu N. Vo, Tan Minh Nguyen
 
 **[P.2]** Equivariant Metanetworks for Mixture-of-Experts Weights. *Under review*. <br/>
-Hoang V. Tran\*, Tho Tran Huu\*, <b>An Nguyen The\*</b>, Duy-Tung Pham, Minh-Khoi Nguyen-Nhat, Thanh Tran, Thieu N. Vo, Tan Minh Nguyen

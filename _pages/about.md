@@ -22,7 +22,7 @@ My current research focuses on developing Metanetworks - neural functional archi
 ## Selected Publications
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 ### [Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/forum?id=eTDgECpQ2I)
-*Thieu N. Vo\*, Duy-Tung Pham\*, __An Nguyen The\*__, Hoang V. Tran, Nhan Phu Chung, Xin T. Tong, Tan Minh Nguyen*<br/>
+*Duy-Tung Pham\*, __An Nguyen The\*__, Hoang V. Tran, Nhan Phu Chung, Xin T. Tong, Thieu N. Vo, Tan Minh Nguyen*<br/>
 Advances in NeurIPS, 2025
 ### [Equivariant Polynomial Functional Networks](https://openreview.net/forum?id=eTDgECpQ2I)
 *Thieu N. Vo\*, Hoang V. Tran\*, Tho Tran Huu\*, __An Nguyen The__, Thanh Tran, Minh-Khoi Nguyen-Nhat, Duy-Tung Pham, Tan Minh Nguyen*<br/>
@@ -42,9 +42,7 @@ Advances in NeurIPS, 2024
 
 ## Selected Preprints
 ### Quasi-Equivariant Metanetworks
-*Hoang V. Tran\*, __An Nguyen The\*__, Benoît Guérand, Thieu N. Vo, Tan Minh Nguyen*<br/>
 Under review
 
 ### Equivariant Metanetworks for Mixture-of-Experts Weights
-*Hoang V. Tran\*, Tho Tran Huu\*, __An Nguyen The\*__, Duy-Tung Pham, Minh-Khoi Nguyen-Nhat, Thanh Tran, Thieu N. Vo, Tan Minh Nguyen*<br/>
 Under review
