@@ -14,7 +14,7 @@ redirect_from:
 
 ## Conference Publications
 
-**[C.1]** [Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/forum?id=eTDgECpQ2I). *Advances in NeurIPS, 2025*. <br/>
+**[C.1]** [Dynamical Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/forum?id=i9Vn8vV99g). *Advances in NeurIPS, 2025*. <br/>
 Thieu N. Vo\*, Duy-Tung Pham\*, <b>An Nguyen The\*</b>, Hoang V. Tran, Nhan Phu Chung, Xin T. Tong, Tan Minh Nguyen
 
 **[C.2]** [Equivariant Polynomial Functional Networks](https://openreview.net/forum?id=eTDgECpQ2I). *International Conference on Machine Learning, ICML 2025*. <br/>

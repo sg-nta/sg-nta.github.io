@@ -14,14 +14,14 @@ redirect_from:
 Welcome to my homepage! I'm An Nguyen The (in Vietnamese: Nguyễn Thế An), and I am currently a research resident at [FPT Software AI Center](https://fpt-aicenter.com/en/) where I am fortunate to be advised by Professor [Tan Nguyen](https://tanmnguyen89.github.io/) and Professor [Thieu Vo](https://scholar.google.at/citations?user=CM2qJSoAAAAJ&hl=en/). Before that, I graduated as valedictorian from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Data Science and Artificial Intelligence. 
 
 ## Research Interests 
-My current research focuses on developing Metanetworks - neural functional architecture preserving functional equivalence. Besides, I'm also working the fundamentals of Transformer models, with a particular emphasis on improving their efficiency and robustness. Additionally, I have experience on Continual Learning and Mixture of Experts. I am also open to diversifying my research to various aspects in the future.
+My current research focuses on developing principled approaches for building scalable and reliable learning systems. I aim to study how model geometry such as architectural modularity, data distributions, and learning dynamics shape emergent capabilities and make model behavior more predictable. I am also open to diversifying my research across various areas in the future. 
 
 <span style="color:red"> **(Looking for PhD in CS)** </span>  I am actively seeking PhD positions in Computer Science for the upcoming academic year and am excited to contribute to innovative research and advancements in the field.
 
 
 ## Selected Publications
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
-### [Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/forum?id=eTDgECpQ2I)
+### [Dynamical Properties of Tokens in Self-Attention and Effects of Positional Encoding](https://openreview.net/forum?id=i9Vn8vV99g)
 *Duy-Tung Pham\*, __An Nguyen The\*__, Hoang V. Tran, Nhan Phu Chung, Xin T. Tong, Thieu N. Vo, Tan Minh Nguyen*<br/>
 Advances in NeurIPS, 2025
 ### [Equivariant Polynomial Functional Networks](https://openreview.net/forum?id=eTDgECpQ2I)
